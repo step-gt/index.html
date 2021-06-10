@@ -1,0 +1,74 @@
+body{ 
+    background-color: rgb(218, 185, 116); 
+}
+#firstheader {
+    color: rgb(0, 0, 0); 
+    font-weight: bold;
+    margin: 20px 30px 5px 20px;    
+    text-align: center;
+}
+.fdf {
+    text-align: center;
+    list-style-type:none; 
+    margin-left: 500px; 
+    padding:2px; 
+}
+.oneli { 
+    display:inline; 
+    float:left;
+}
+a { 
+    
+    display:block;
+    width:300px; 
+    background-color:rgb(155, 122, 52); 
+}
+a:link {
+    text-decoration:none;
+}
+a:hover {
+    color:#ffffff;
+}
+a:active {
+    color:#000000;
+}
+#block2 {
+    margin-right: 200px;
+    background:#A9A9A9;
+    border:1px solid #A9A9A9;
+    }
+#textonas{
+    margin-right: px;
+    background:#A9A9A9;
+    border:1px solid #A9A9A9;
+}
+.h1 {
+    margin: 40px 700px 0px 20px;  
+    background: rgb(218, 185, 116);
+    text-align: left;
+}
+.h2 {
+    font-size: 12;
+    margin: 0 470px 0 50px;   
+    background: rgb(218, 185, 116);
+    line-height: 20px;
+    text-indent: 20px;
+    text-align: center;
+}
+.h3 {
+    font-size: 12;
+    margin: 0 0px 0 50px;   
+    background: rgb(218, 185, 116);
+    line-height: 20px;
+    text-indent: 20px;
+}
+.h5 {
+    background-image:url('image/dom5.jpg');
+    width: 10000px;
+    height: 10000px;
+    background-repeat: no-repeat;
+    background-size: 500px;
+    position: absolute;
+    top: 120px;
+    left: 1200px;
+}
